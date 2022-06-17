@@ -11,6 +11,5 @@ public class App {
             System.out.println("Next word in array");
             resultPrinter.printResults(characterCounter.countCharacters(word));
         }
-
     }
 }

@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="PL"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin"/>
-    <property name="sun.java.command" value="C:\Users\augus\AppData\Local\Temp\surefire7698172221435667043\surefirebooter2981490984561893974.jar C:\Users\augus\AppData\Local\Temp\surefire7698172221435667043 2022-06-17T09-23-26_066-jvmRun1 surefire7768702851002274250tmp surefire_05132444938455833434tmp"/>
+    <property name="sun.java.command" value="C:\Users\augus\AppData\Local\Temp\surefire5424020079768627391\surefirebooter9328763752837061668.jar C:\Users\augus\AppData\Local\Temp\surefire5424020079768627391 2022-06-17T09-42-17_690-jvmRun1 surefire12058492891673180610tmp surefire_015166020959909004156tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Strony\recruitment-app\target\test-classes;C:\Strony\recruitment-app\target\classes;C:\Users\augus\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\augus\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\augus\AppData\Local\Temp\surefire7698172221435667043\surefirebooter2981490984561893974.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\augus\AppData\Local\Temp\surefire5424020079768627391\surefirebooter9328763752837061668.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.11+9-LTS-194"/>
@@ -47,6 +47,7 @@
     <property name="localRepository" value="C:\Users\augus\.m2\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\augus\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.2"/>
     <property name="java.version" value="11.0.11"/>
     <property name="user.dir" value="C:\Strony\recruitment-app"/>
     <property name="os.arch" value="amd64"/>
@@ -60,5 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.piotr.AppTest" time="0"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.piotr.AppTest" time="0.016"/>
 </testsuite>
